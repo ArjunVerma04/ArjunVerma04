@@ -12,12 +12,6 @@
 
 ---
 ## 🛠 Skills & Tools
-### ⚛ Frontend Frameworks
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" style="margin-right:25px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" style="margin-right:25px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" style="margin-right:25px;"/>
-</p>
 
 ### 💻 Languages
 <p>
@@ -25,6 +19,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" style="margin-right:25px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" style="margin-right:25px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" style="margin-right:25px;"/>
+
+</p>
+
+### ⚛ Frontend Frameworks
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" style="margin-right:25px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" style="margin-right:25px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" style="margin-right:25px;"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" width="70" style="margin-right:25px;"/>
 </p>
 
@@ -35,7 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" style="margin-right:25px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="70" style="margin-right:25px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" style="margin-right:25px;"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" width="70" style="margin-right:25px;"/>
 </p>
 
 
