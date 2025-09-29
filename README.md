@@ -8,11 +8,11 @@
 
 
 ## 🌟 About Me
-- 🔭 **Building**: Full-stack web apps with **MERN stack** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-- 🌱 **Learning**: Advanced backend & frontend frameworks ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- 🔭 **Building**: Full-stack web apps with **MERN stack** 
+- 🌱 **Learning**: Advanced backend & frontend frameworks 
 - 💬 **Ask me about**: `JavaScript`, `React`, `Node.js`, `MongoDB`, `REST APIs`
 - 📫 **Reach me**: [arjunverma8352@gmail.com](mailto:arjunverma8352@gmail.com)
-- ⚡ **Fun fact**: I turn ☕ coffee into **clean code** 😄
+- 💡 Quote: “Simplicity is the soul of efficiency.” – Austin Freeman
 
 
 ---
