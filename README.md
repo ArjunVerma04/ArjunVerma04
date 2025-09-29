@@ -1,5 +1,11 @@
-# Hi 👋, I'm Arjun Verma  
-**Full Stack Developer | MERN Developer** 🚀  
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlmNXZjeGt2MGJkcDhydXN3Y2t2aDk5cHJ3Z2V0M3BhanNjY2poaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Arjun Verma" width="600"/>
+</p>
+
+<p align="center">
+  <strong>Full Stack Developer | MERN Developer 🚀</strong>
+</p>
+
 
 ---
 
@@ -68,6 +74,12 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-verma-02b44025b)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunverma8352@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjun-verma-02b44025b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:arjunverma8352@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
