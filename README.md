@@ -2,19 +2,22 @@
 **Full Stack Developer | MERN Developer** 🚀  
 
 ---
-## 👨‍💻 Coding Time  
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR1ZnhmdDg5bzA1bWI3bDU1Zm92Z2xuOHc2bG5pdGVxbm00N2QzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1000" height="500"/>
 
 🌟 About Me
 
-🔭 I craft full-stack web applications using the MERN stack, turning ideas into reality.
- 🌱 Continuously exploring full-stack development, Java, OOPs, and DSA to level up my skills.
-💬 Passionate about JavaScript, React, Node.js, MongoDB, and building scalable APIs.
-📫 Reach me at arjunverma8352@gmail.com
- — I love connecting with fellow developers!
+*🔭 I craft full-stack web applications using the MERN stack, turning ideas into reality.
 
-💡 Quote: “Simplicity is the soul of efficiency.”
+*🌱 Continuously exploring full-stack development, Java, OOPs, and DSA to level up my skills.
 
+*💬 Passionate about JavaScript, React, Node.js, MongoDB, and building scalable APIs.
+
+*📫 Reach me at arjunverma8352@gmail.com — I love connecting with People!
+
+*💡 Quote: “Simplicity is the soul of efficiency.”
+
+---
+## 👨‍💻 Coding Time  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR1ZnhmdDg5bzA1bWI3bDU1Zm92Z2xuOHc2bG5pdGVxbm00N2QzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1000" height="500"/>
 
 ---
 ## 🛠 Skills & Tools
