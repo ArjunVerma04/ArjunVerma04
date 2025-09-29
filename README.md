@@ -3,7 +3,8 @@
 
 ---
 ## 👨‍💻 Coding Time  
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6aHBxbWFkMzc1eWFkN2M2YnVkcWswMmlraG1tZnFpanY3aHoxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemk4OWRuOGd1eHQwZ2JndGd1NjJpNmxxMHU4bXlnbWMxZmhxcmhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="600"/>
+
 
 ## 🌟 About Me
 - 🔭 Building **full-stack web applications** using the MERN stack  
