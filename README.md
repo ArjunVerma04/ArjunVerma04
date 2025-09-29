@@ -10,7 +10,7 @@
 
 *💬 Passionate about JavaScript, React, Node.js, MongoDB, and building scalable APIs.
 
-*📫 Reach me at arjunverma8352@gmail.com — I love connecting with People!
+*📫 Reach me at arjunverma8352@gmail.com — I love connecting with fellow developers!
 
 *💡 Quote: “Simplicity is the soul of efficiency.”
 
