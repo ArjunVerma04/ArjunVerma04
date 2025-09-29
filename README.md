@@ -7,11 +7,15 @@
 
 
 
-## 🌟 About Me
-- 🔭 **Building**: Full-stack web apps with **MERN stack** 
-- 🌱 **Learning**: Advanced backend & frontend frameworks 
-- 💬 **Ask me about**: `JavaScript`, `React`, `Node.js`, `MongoDB`, `REST APIs`
-- 📫 **Reach me**: [arjunverma8352@gmail.com](mailto:arjunverma8352@gmail.com)
+🌟 About Me
+
+🔭 I craft full-stack web applications using the MERN stack, turning ideas into reality.
+
+🌱 Continuously exploring advanced backend systems and modern frontend frameworks to level up my skills.
+
+💬 Passionate about JavaScript, React, Node.js, MongoDB, and building scalable APIs.
+📫 You can reach me at arjunverma8352@gmail.com
+ — I love connecting with fellow developers!
 - 💡 Quote: “Simplicity is the soul of efficiency.” – Austin Freeman
 
 
