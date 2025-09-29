@@ -1,3 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animated Intro</title>
+<style>
+  /* Body styling */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    margin: 0;
+  }
+
+  /* Container for the intro */
+  .animated-intro {
+    text-align: center;
+  }
+
+  /* Slide in + glow animation for name */
+  @keyframes slideIn {
+    0% { transform: translateX(-100%); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+  }
+
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #f06, 0 0 10px #4a90e2; }
+    50% { text-shadow: 0 0 15px #f06, 0 0 20px #4a90e2; }
+    100% { text-shadow: 0 0 5px #f06, 0 0 10px #4a90e2; }
+  }
+
+  /* Name styling */
+  .glow-name {
+    font-size: 3em;
+    font-weight: bold;
+    background: linear-gradient(90deg, #f06, #4a90e2, #f9f, #0ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: slideIn 1.5s ease-out, glow 2s infinite alternate;
+  }
+
+  /* Subtitle styling */
+  .subtitle {
+    font-size: 1.2em;
+    color: #aaa;
+    margin-top: 10px;
+    animation: slideIn 2s ease-out;
+  }
+</style>
+</head>
+<body>
+  <div class="animated-intro">
+    <div class="glow-name">Hi 👋, I'm Arjun Verma</div>
+    <div class="subtitle">Full Stack Developer | MERN Developer 🚀</div>
+  </div>
+</body>
+</html>
 
 
 ---
