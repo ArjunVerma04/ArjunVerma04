@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlmNXZjeGt2MGJkcDhydXN3Y2t2aDk5cHJ3Z2V0M3BhanNjY2poaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Arjun Verma" width="600"/>
-</p>
-
-<p align="center">
-  <strong>Full Stack Developer | MERN Developer 🚀</strong>
-</p>
 
 
 ---
