@@ -1,48 +1,20 @@
-<!-- Advanced Animated Name SVG for README.md -->
-<svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+<!-- Gradient Name in README.md -->
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Moving gradient for text -->
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f06">
-        <animate attributeName="stop-color" values="#f06;#4a90e2;#f9f;#0ff;#f06" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#4a90e2">
-        <animate attributeName="stop-color" values="#4a90e2;#f9f;#0ff;#f06;#4a90e2" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#f9f">
-        <animate attributeName="stop-color" values="#f9f;#0ff;#f06;#4a90e2;#f9f" dur="6s" repeatCount="indefinite" />
-      </stop>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f06"/>
+      <stop offset="50%" stop-color="#4a90e2"/>
+      <stop offset="100%" stop-color="#f9f"/>
     </linearGradient>
-
-    <!-- Glow effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-
-  <!-- Animated name text -->
-  <text x="0" y="80" font-size="40" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif"
-        fill="url(#grad1)" filter="url(#glow)">
+  <text x="0" y="60" font-size="40" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#grad)">
     Hi 👋, I'm Arjun Verma
-    <animate attributeName="x" from="-700" to="0" dur="2s" fill="freeze" />
   </text>
-
-  <!-- Subtitle with fade-in -->
-  <text x="0" y="120" font-size="18" fill="#aaa" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
-    Full Stack Developer | MERN Developer
-    <animate attributeName="opacity" from="0" to="1" dur="2s" begin="1s" fill="freeze" />
-  </text>
-
-  <!-- Rocket emoji bouncing -->
-  <text x="660" y="40" font-size="30">
-    🚀
-    <animate attributeName="y" values="40;30;40" dur="1s" repeatCount="indefinite" />
+  <text x="0" y="90" font-size="18" fill="#aaa" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
+    Full Stack Developer | MERN Developer 🚀
   </text>
 </svg>
+
 
 
 
