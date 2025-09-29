@@ -3,7 +3,7 @@
 
 ---
 
-##🌟 About Me
+## 🌟 About Me
 
 *🔭 I craft full-stack web applications using the MERN stack, turning ideas into reality.
 
