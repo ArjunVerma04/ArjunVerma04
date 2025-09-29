@@ -1,19 +1,8 @@
-<!-- Gradient Name in README.md -->
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f06"/>
-      <stop offset="50%" stop-color="#4a90e2"/>
-      <stop offset="100%" stop-color="#f9f"/>
-    </linearGradient>
-  </defs>
-  <text x="0" y="60" font-size="40" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#grad)">
-    Hi 👋, I'm Arjun Verma
-  </text>
-  <text x="0" y="90" font-size="18" fill="#aaa" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
-    Full Stack Developer | MERN Developer 🚀
-  </text>
-</svg>
+<!-- Typing SVG Animation for Arjun Verma -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Arjun+Verma!;Full+Stack+Developer+|+MERN+Developer🚀&font=Fira+Code&center=true&width=600&height=60&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
 
 
 
