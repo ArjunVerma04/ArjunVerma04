@@ -3,7 +3,7 @@
 
 ---
 ## 👨‍💻 Coding Time  
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xhc21ua3o0cHZjcXN3MHM2dnpoeWh3bjg5OW1hbnk3N3c4cWp4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="1000" height="500"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR1ZnhmdDg5bzA1bWI3bDU1Zm92Z2xuOHc2bG5pdGVxbm00N2QzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1000" height="500"/>
 
 
 
