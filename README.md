@@ -72,10 +72,11 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arjun-verma-02b44025b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" style="margin-right:25px;" alt="LinkedIn"/>
   </a>
   <a href="mailto:arjunverma8352@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" style="margin-right:25px;" alt="Gmail"/>
   </a>
 </p>
+
 
