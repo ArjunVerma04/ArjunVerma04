@@ -1,33 +1,49 @@
-<div style="text-align:center; margin-top:50px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<!-- Advanced Animated Name SVG for README.md -->
+<svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Moving gradient for text -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f06">
+        <animate attributeName="stop-color" values="#f06;#4a90e2;#f9f;#0ff;#f06" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#4a90e2">
+        <animate attributeName="stop-color" values="#4a90e2;#f9f;#0ff;#f06;#4a90e2" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f9f">
+        <animate attributeName="stop-color" values="#f9f;#0ff;#f06;#4a90e2;#f9f" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
 
-  <!-- Animated name -->
-  <h1 style="
-      font-size: 3em; 
-      font-weight: bold; 
-      background: linear-gradient(90deg, #f06, #4a90e2, #f9f, #0ff);
-      -webkit-background-clip: text; 
-      color: transparent;
-      animation: glow 2s infinite alternate;
-      display: inline-block;
-    ">
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Animated name text -->
+  <text x="0" y="80" font-size="40" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif"
+        fill="url(#grad1)" filter="url(#glow)">
     Hi 👋, I'm Arjun Verma
-  </h1>
+    <animate attributeName="x" from="-700" to="0" dur="2s" fill="freeze" />
+  </text>
 
-  <!-- Subtitle -->
-  <p style="font-size:1.2em; color:#aaa; margin-top:10px;">
-    Full Stack Developer | MERN Developer 🚀
-  </p>
-</div>
+  <!-- Subtitle with fade-in -->
+  <text x="0" y="120" font-size="18" fill="#aaa" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
+    Full Stack Developer | MERN Developer
+    <animate attributeName="opacity" from="0" to="1" dur="2s" begin="1s" fill="freeze" />
+  </text>
 
-<!-- Inline @keyframes workaround using a GitHub-friendly hack -->
-<img src="https://dummyimage.com/1x1/000/000.gif" style="
-  animation: glow 2s infinite alternate;
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px #f06, 0 0 10px #4a90e2; }
-    50% { text-shadow: 0 0 15px #f06, 0 0 20px #4a90e2; }
-    100% { text-shadow: 0 0 5px #f06, 0 0 10px #4a90e2; }
-  }
-"/>
+  <!-- Rocket emoji bouncing -->
+  <text x="660" y="40" font-size="30">
+    🚀
+    <animate attributeName="y" values="40;30;40" dur="1s" repeatCount="indefinite" />
+  </text>
+</svg>
+
 
 
 ---
