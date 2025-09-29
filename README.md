@@ -1,13 +1,4 @@
-<!-- Typing SVG Animation for README -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Arjun+Verma!;Full+Stack+Developer+|+MERN+Developer🚀&font=Fira+Code&center=true&width=600&height=60&duration=4000&pause=1000&color=4a90e2" alt="Typing SVG">
-</p>
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=36&pause=1&color=F72C7EFA&background=5C44FF00&width=435&lines=Hello+everyOne!;I'am+Arjun+Verma;Full+Stack+Developer)](https://git.io/typing-svg)
 ---
 
 ## 🌟 About Me
