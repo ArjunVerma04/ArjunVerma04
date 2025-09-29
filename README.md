@@ -77,7 +77,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arjunverma8352@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>  like this <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="70" style="margin-right:25px;"/> type of icon
+</p>  
 
 
 
