@@ -74,9 +74,10 @@
   <a href="https://www.linkedin.com/in/arjun-verma-02b44025b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" style="margin-right:25px;" alt="LinkedIn"/>
   </a>
-  <a href="mailto:arjunverma8352@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" style="margin-right:25px;" alt="Gmail"/>
+  <a href="mailto:arjunverma8352@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="70" style="margin-right:25px;" alt="Gmail"/>
   </a>
 </p>
+
 
 
